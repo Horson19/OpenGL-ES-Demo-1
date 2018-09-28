@@ -1,2 +1,2 @@
 # OpenGL-ES-Demo-1
-practice
+practice for use OpenGL ES to upload a pic on the view.
